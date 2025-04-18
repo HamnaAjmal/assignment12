@@ -1,0 +1,21 @@
+
+.box{
+    width:600px;
+    height:360px;
+    border:2px solid black;
+}
+.box1{
+    width:600px;
+    height:120px;
+    background-color: white;
+}
+.box2{
+    width:600px;
+    height:120px;
+    background-color:green;
+}
+.box3{
+    width:600px;
+    height:120px;
+background-color: red;
+}
